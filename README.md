@@ -55,7 +55,7 @@ AI-Stock-Market-Assistant/
 └── .gitignore
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/AI-Stock-Market-Assistant.git
+git clone https://github.com/rudranil-glitch/AI-Stock-Market-Assistant.git
 cd AI-Stock-Market-Assistant
 2. Install Dependencies
 pip install -r requirements.txt
